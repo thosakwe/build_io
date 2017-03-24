@@ -1,0 +1,7 @@
+author: "Tobe O <thosakwe@gmail.com>"
+description: "package:build helpers for running I/O operations, such as copying files."
+homepage: "https://github.com/thosakwe/build_io.git"
+name: "build_io"
+version: "1.0.0"
+dependencies: 
+  build: "^0.7.2"
